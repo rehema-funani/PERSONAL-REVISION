@@ -1,0 +1,67 @@
+#image{
+    width:100%;
+    
+}
+#container{
+    border:5px solid;
+    border-color: blue;
+    background-color: blueviolet;
+    
+    
+
+    width: 30%;
+    border-radius: 9%;
+    width: 50%;
+    
+
+
+
+    
+}
+#form{
+    border: 5px solid;
+
+    border-color: blue;
+    background-color: white;
+    border-radius: 9%;
+    width: 50%;
+
+    
+    
+
+}
+#page{
+    display: flex;
+     border: 1px solid;
+    border-color: yellow;
+    border-radius: 25px;
+    background-color: rgb(217, 230, 238);
+    text-align: center; 
+    margin-right: 100px;
+    
+    button{
+        border-color: blue;
+        background-image: blue;
+    }
+    
+
+    
+    
+    
+
+    
+
+    
+}
+.image2{
+    width:5%;
+    border: 1px solid;
+    border-radius: 50%;
+    background-color: white;
+}
+.input{
+    border:1px solid;
+    border-color: blue;
+
+
+}
